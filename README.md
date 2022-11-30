@@ -15,6 +15,6 @@ Overview of project of social skills in American Universities
 ![image](Ethics.jpg)
 
 ## Copyright Certification
-![image](USCopyrightCertificate.jpg)
+![image](USCopyrightCertificate.png)
 
 Additional details reference https://github.com/alpaddesai/GraduateDegrees
