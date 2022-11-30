@@ -2,13 +2,13 @@
 
 Overview of project of social skills in American Universities
 
-## Engineering School
+## American Engineering School
 ![image](SocialSkillsAmericanUniversities.jpg)
 
-## Engineering School
+## Indian Engineering School
 ![image](SocialSkillsIndianUniversities.jpg)
 
-## Business School
+## American Business School
 ![image](SocialSkillsBusinessSchool.jpg)
 
 Additional details reference https://github.com/alpaddesai/GraduateDegrees
