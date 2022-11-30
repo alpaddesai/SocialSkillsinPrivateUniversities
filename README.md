@@ -2,3 +2,7 @@
 
 Overview of project of social skills in American Universities
 
+![image](SocialSkillsAmericanUniversities.jpg)
+
+![image](SocialSkillsIndianUniversities.jpg)
+
