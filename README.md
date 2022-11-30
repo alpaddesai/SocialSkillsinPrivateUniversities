@@ -1,4 +1,4 @@
-# Social Skills in American Universities
+# Social Skills in Universities
 
 Overview of project of social skills in American Universities
 
