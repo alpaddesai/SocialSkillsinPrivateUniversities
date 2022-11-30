@@ -11,4 +11,10 @@ Overview of project of social skills in American Universities
 ## American Business School
 ![image](SocialSkillsBusinessSchool.jpg)
 
+## Ethics
+![image](Ethics.jpg)
+
+## Copyright Certification
+![image](USCopyrightCertificate.jpg)
+
 Additional details reference https://github.com/alpaddesai/GraduateDegrees
