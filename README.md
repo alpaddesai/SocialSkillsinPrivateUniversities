@@ -2,13 +2,13 @@
 
 Overview of project of social skills in American Universities
 
-## American Engineering School
+## Private American Engineering School
 ![image](SocialSkillsAmericanUniversities.jpg)
 
 ## Indian Engineering School
 ![image](SocialSkillsIndianUniversities.jpg)
 
-## American Business School
+## Private American Business School
 ![image](SocialSkillsBusinessSchool.jpg)
 
 ## Ethics
