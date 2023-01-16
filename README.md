@@ -5,7 +5,7 @@ Overview of project of social skills in American Universities
 ## Private American Engineering School
 ![image](SocialSkillsAmericanUniversities.jpg)
 
-## Indian Govt Engineering School
+## Indian Government Engineering School
 #### "Have to be really really smart to get in"
 ![image](SocialSkillsIndianUniversities.jpg)
 
