@@ -14,4 +14,4 @@ Overview of project of social skills in American Universities
 ## Copyright Certification
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/GraduateDegrees
+Additional details reference https://github.com/alpaddesai/LifeStyle
